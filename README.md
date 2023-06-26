@@ -1,8 +1,8 @@
 😁💭 #Olá, eu sou o Luan ✌️
 <br/>
 ##Intro:
-<br/>
   * 🧑‍🚀 A tecnologia é essencial em minha vida, a escolhi como profissão e a tenho como hobby.
+<br/>
 ##Sobre mim:
    * 🚢 Eu trabalhando como Programador em uma empresa que presta serviços offshore, chamada Gran Services .
    * 🎓 Sou formado em "Tecnologia para Sistemas da Computação", pela Universidade Federal Fluminense (UFF) .
