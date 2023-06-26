@@ -1,6 +1,7 @@
 😁💭 Olá, eu sou o Luan ✌️
+/n
 ###Intro:
-  🧑‍🚀 A tecnologia é essencial em minha vida, a escolhi como profissão e a tenho como hobby.  
+  * 🧑‍🚀 A tecnologia é essencial em minha vida, a escolhi como profissão e a tenho como hobby.  
 
 ###Sobre mim:
    * 🚢 Eu trabalhando como Programador em uma empresa que presta serviços offshore, chamada Gran Services .
