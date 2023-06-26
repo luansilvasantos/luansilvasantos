@@ -1,18 +1,15 @@
 😁💭 Olá, eu sou o Luan ✌️
-É um grande prazer receber a sua visita. 👍
+###Intro:
+  🧑‍🚀 A tecnologia é essencial em minha vida, a escolhi como profissão e a tenho como hobby.  
 
-Sobre mim: 
-- 🧑‍🚀 A tecnologia é essencial, a tenho como profissão e hobby.  
-- 🚢 Eu trabalhando como Programador em uma empresa que presta serviços offshore, chamada Gran Services ...
-- 🎓 Sou formado em "Tecnologia para Sistemas da Computação", pela Universidade Federal Fluminense (UFF) ...
-- 😄 Curto muito jogos de rpg, livros fantásticos, filmes e séries de suspense investigativo.
-- ⚡ Atualmente estou progredindo meu inglês e realizando minha pós graduação na área de TI.
+###Sobre mim:
+    🚢 Eu trabalhando como Programador em uma empresa que presta serviços offshore, chamada Gran Services .
+    🎓 Sou formado em "Tecnologia para Sistemas da Computação", pela Universidade Federal Fluminense (UFF) .
+    😄 Curto muito jogos de rpg, livros fantásticos, filmes e séries de suspense investigativo.
+    ⚡ Nem só de código vive o dev, estou desenvolvendo também meu inglês 
+    👨🏽‍💻 E em breve estarei realizando minha pós-graduação na área de TI.
 
-- Meu linkedIn:https://www.linkedin.com/in/luansantosx7
-- Meu Instagran: https://www.instagram.com/luanss___
-- Email: luanss@id.uff.br
-
-## Contatos:
+###Contatos:
 
 <div>
 <!-- <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
