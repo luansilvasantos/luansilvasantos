@@ -3,11 +3,11 @@
   🧑‍🚀 A tecnologia é essencial em minha vida, a escolhi como profissão e a tenho como hobby.  
 
 ###Sobre mim:
-    🚢 Eu trabalhando como Programador em uma empresa que presta serviços offshore, chamada Gran Services .
-    🎓 Sou formado em "Tecnologia para Sistemas da Computação", pela Universidade Federal Fluminense (UFF) .
-    😄 Curto muito jogos de rpg, livros fantásticos, filmes e séries de suspense investigativo.
-    ⚡ Nem só de código vive o dev, estou desenvolvendo também meu inglês 
-    👨🏽‍💻 E em breve estarei realizando minha pós-graduação na área de TI.
+   > 🚢 Eu trabalhando como Programador em uma empresa que presta serviços offshore, chamada Gran Services .
+   > 🎓 Sou formado em "Tecnologia para Sistemas da Computação", pela Universidade Federal Fluminense (UFF) .
+   > 😄 Curto muito jogos de rpg, livros fantásticos, filmes e séries de suspense investigativo.
+   > ⚡ Nem só de código vive o dev, estou desenvolvendo também meu inglês 
+   > 👨🏽‍💻 E em breve estarei realizando minha pós-graduação na área de TI.
 
 ###Contatos:
 
