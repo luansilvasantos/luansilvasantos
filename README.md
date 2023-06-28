@@ -4,8 +4,8 @@
 <ul>
    <li> 🚢 Atualmente, eu trabalho como "Programador de TI" na Gran Services .</li>
    <li> 🎓 Sou formado em "Tecnologia em Sistemas de Computação" pela Universidade Federal Fluminense (UFF) desde 2021</li>
-   <li> 😄 Curto muito jogos de rpg, livros fantásticos, filmes e séries de suspense investigativo.</li>
-   <li> ⚡ Minhas metas atuais é desenvolver o meu inglês e realizar uma pós</li>
+   <li> 😄 Curto jogos de rpg, livros fantásticos, filmes e séries de suspense investigativo.</li>
+   <li> ⚡ Minhas meta atual é desenvolver o meu inglês e realizar uma pós</li>
 </ul>
 <h3>Contatos:</h3>
 <div>
